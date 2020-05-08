@@ -42,6 +42,6 @@ To try the program, I also add the sampledna.txt file in this repo.
 
 Crucial improvement needed in the function that remove unnecessary mark,
 because sometimes in DNA file it's not only punctuation marks involved,
-but the file should only contain the letter A, C, G, and T.
+and the file should only contain the letter A, C, G, and T.
 
 Thank you.
